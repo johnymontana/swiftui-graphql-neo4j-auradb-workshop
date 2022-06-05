@@ -1,0 +1,21 @@
+query MostRecentArticles {
+  articles(options: {limit: 30, sort:{published:DESC}}) {
+    title
+    url
+    published
+    abstract
+    photo {
+      caption
+      url
+    }
+    people {
+      name
+    }
+    geos {
+      name
+    }
+    organizations {
+      name
+    }
+  }
+}

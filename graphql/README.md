@@ -1,4 +1,4 @@
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/github/johnymontana/book-graph/tree/main/graphql/auth?file=/schema.graphql)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/github/johnymontana/swiftui-graphql-neo4j-auradb-workshop/tree/main/graphql?file=/schema.graphql)
 
 
 
